@@ -5,3 +5,4 @@ ichi.pro
 cloud6.net
 www.sejuku.net
 www.it-mure.jp.net
+www.javaer101.com
